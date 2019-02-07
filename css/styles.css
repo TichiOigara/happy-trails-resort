@@ -1,0 +1,29 @@
+#welcome {
+  text-align:center;
+}
+#welcome img{
+  width:100%;
+}
+#traveldest{
+  text-align:center;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.destination{
+  width:30%;
+  text-align: justify;
+}
+.destination img {
+  width:100%;
+  heigh:60%;
+}
+#contactUs{
+border: 8px solid black;
+}
+#footerimg{
+  width:40%;
+  height:20%;
+  float: right;
+  margin:2em;
+}
